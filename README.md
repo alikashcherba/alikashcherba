@@ -1,5 +1,5 @@
 ## Hello !
-My name is Alika Shcherba. I am 19 years old and currently a student of Computer Science at the Higher School of Economics (HSE) in Moscow. I am interested in Machine Learning (ML) and AI. 🤖 I speak Russian (native) and English at a B2
+My name is Alika Shcherba. I am 19 years old and currently a student of Computer Science at the Higher School of Economics (HSE) in Moscow. I am interested in Machine Learning (ML) and AI. I speak Russian (native) and English at a B2
 
 - 📫 How to reach me:
   - shcherbaalika@gmail.com
